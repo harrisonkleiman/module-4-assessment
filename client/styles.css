@@ -1,0 +1,15 @@
+/* space out/style buttons & fields */
+
+#fortuneButton {
+  margin-left: 30px;
+  color: blueviolet;
+}
+
+#fortuneButton:hover {
+  color: rgb(228, 20, 193);
+}
+
+.affText {
+  margin-left: 30px;
+  color:rgb(219, 133, 169)
+}
