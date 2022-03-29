@@ -11,5 +11,6 @@ module.exports = {
     let randomAffirmation = affirmations[randomIndex]
 
     res.status(200).send(randomAffirmation)
+    alert(randomAffirmation)
   },
 }
